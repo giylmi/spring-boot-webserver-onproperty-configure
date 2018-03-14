@@ -8,7 +8,7 @@ Output is artifact will be in `build/libs`
 
 #### Run
 
-`java -jar build/libs/ybootserver-0.0.1-SNAPSHOT.jar --server.type=<server-type>`
+`java -jar build/libs/spring-boot-webserver-onproperty-configure-0.0.1-SNAPSHOT.jar --server.type=<server-type>`
 
 server-type = 'tomcat' | 'jetty' | 'undertow'
 
